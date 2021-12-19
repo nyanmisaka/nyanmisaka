@@ -1,4 +1,6 @@
-### Hi there 👋
+**Alipay | 支付宝** *欢迎捐赠！你的支持是我开发的动力*
+
+[![TmSyz8.jpg](https://s4.ax1x.com/2021/12/19/TmSyz8.jpg)](https://imgtu.com/i/TmSyz8)
 
 <!--
 **nyanmisaka/nyanmisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
